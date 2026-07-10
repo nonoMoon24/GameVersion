@@ -1,2 +1,2 @@
 # GameVersion
-for game
+1
